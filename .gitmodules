@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/zyf0717/zyf0717.r-universe.dev
 	branch = HEAD
+[submodule "HeatStressR"]
+	path = HeatStressR
+	url = https://github.com/zyf0717/HeatStressR
+	branch = v2.2.1
