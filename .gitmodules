@@ -6,3 +6,8 @@
 	path = HeatStressR
 	url = https://github.com/zyf0717/HeatStressR
 	branch = v2.4.0
+[submodule "lwbgt"]
+	path = lwbgt
+	url = https://github.com/zyf0717/lwbgt
+	branch = *release
+	subdir = r
