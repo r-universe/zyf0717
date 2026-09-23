@@ -9,5 +9,5 @@
 [submodule "lwbgt"]
 	path = lwbgt
 	url = https://github.com/zyf0717/lwbgt
-	branch = v0.4.2
+	branch = v0.4.3
 	subdir = r
